@@ -1,0 +1,10 @@
+256000 baud
+
+IP-Controller:J-ST-H00-V00:EOF  	Horizontal/Vertikal 0-31
+
+IP-Controller:J-Z-WIDE:EOF		Zoom Wide
+IP-Controller:J-Z-TELE:EOF		Zoom Tele
+IP-Controller:J-Z-STOP:EOF		Zoom Stop
+
+IP-Controller:R00-C00:EOF		Button released
+IP-Controller:R01-C01:EOF		Button pressed  Row 1-6 /Column 1-5
