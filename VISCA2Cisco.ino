@@ -1,4 +1,4 @@
-#include "visca_controller_converter.h"
+#include "VISCA2Cisco.h"
 
 SoftwareSerial viscaOutput(VISCARX, VISCATX);
 SoftwareSerial controllerInput(CONRX, CONTX);
